@@ -1,5 +1,5 @@
 _repo: Greek-vase-painting-Griechische-Vasenmalerei_61986
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Gardner, Percy
@@ -15,6 +15,9 @@ contributor:
     deathdate: 1951
     gutenberg_agent_id: '51712'
     url: http://www.gutenberg.org/2009/agents/51712
+covers:
+- cover_type: archival
+  image_path: 61986-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Buschor, Ernst
@@ -26,6 +29,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ernst_Buschor
     - https://de.wikipedia.org/wiki/Ernst_Buschor_(Arch%C3%A4ologe)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61986#Greek-vase-painting-Griechische-Vasenmalerei
 gutenberg_issued: '2020-05-01'
 gutenberg_type: Text
 identifiers:
